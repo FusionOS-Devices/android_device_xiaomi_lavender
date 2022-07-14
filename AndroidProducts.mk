@@ -1,7 +1,7 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/potato_lavender.mk
+    $(LOCAL_DIR)/fuse_lavender.mk
 
 COMMON_LUNCH_CHOICES := \
-    potato_lavender-user \
-    potato_lavender-userdebug \
-    potato_lavender-eng
+    fuse_lavender-user \
+    fuse_lavender-userdebug \
+    fuse_lavender-eng
